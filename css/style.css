@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(179, 235, 179);
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: 0.08em;
+}
+li {
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+nav {
+    
+    font-weight: bold;
+}
+
+#alternative {
+    font-size: 0.6em;
+}
+
+a {
+    text-decoration: none;
+    font-size: 0.8em;
+    word-spacing: 0.8;
+}
+
+button{
+    border: solid, gold,;
+}
+#bottom {
+    position: relative;
+    
+}
